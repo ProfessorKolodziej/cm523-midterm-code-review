@@ -1,0 +1,28 @@
+body {
+  font-family: "Chewy";
+  padding: 1em
+}
+
+h1 {
+  /*
+  There's actually a heartbreaking story behind this color name, but it
+  always helps me remember we're all humans behind the screens.
+  https://medium.com/@valgaze/the-hidden-purple-memorial-in-your-web-browser-7d84813bb416
+  */
+  color: rebeccapurple;
+}
+
+img {
+  height: auto
+  width: 100%;
+}
+
+.two {
+  background: lightblue;
+  padding: 2em;
+}
+
+.two img {
+  float: left;
+  width: 50%;
+}
