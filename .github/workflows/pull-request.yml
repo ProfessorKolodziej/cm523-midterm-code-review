@@ -19,6 +19,6 @@ jobs:
 
         This pull request adds the content, colors, and some basic typography for KK's favorite recipe for the Your Favorite Recipe assignment.
 
-        I did my first round of HTML and CSS, but I have three things I can't figure out. One is that all my text is really large in the beginning, from my title to "Ingredients" - but I didn't add any CSS to my paragraphs yet. I'm also having some trouble with the width of my images on mobile - they're too big, but I put in a width of 100%, so I don't know why they're still so big. And in my last two pictures, I got them to show up side by side, but I can't get the blue background to go all the way down underneath the photos.
+        I did my first round of HTML and CSS, but I have three things I can't figure out. One is that all my text is really large in the beginning, from my title to \"Ingredients\" - but I didn't add any CSS to my paragraphs yet. I'm also having some trouble with the width of my images on mobile - they're too big, but I put in a width of 100%, so I don't know why they're still so big. And in my last two pictures, I got them to show up side by side, but I can't get the blue background to go all the way down underneath the photos.
 
         Can you look through my code and help me figure out what's going on? What am I missing? Is there anything I could improve? Example on Glitch here. Resize to mobile so you can see what I mean https:\/\/glitch.com\/edit\/\#\!\/cm523-midterm-pull-request-example
