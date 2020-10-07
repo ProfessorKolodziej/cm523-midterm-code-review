@@ -12,7 +12,7 @@ This will create a sample code review for you to review in your repository.
 
 **Create an issue - any issue! - in this repository.** It doesn't matter what you put in it. There is a bug in Github right now with actions that prevents me from giving you proper instructions to do this, so - I'm using issues to tell Github to set this up for you as a workaround. [You can use the instructions here.](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue)
 
-Head to Actions to see how that sample pull request is coming along.
+After you create the issue, head to Actions to see how the pull request is coming along.
 
 <!--For more details, see [Manually running a workflow](https://docs.github.com/en/free-pro-team@latest/actions/managing-workflow-runs/manually-running-a-workflow)-->
 
