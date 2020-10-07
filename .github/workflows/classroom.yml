@@ -1,6 +1,6 @@
 name: Start Code Review
 on:
-  workflow_dispatch
+  [issues, workflow_dispatch]
 
 jobs:
   create-pr-on-push:
