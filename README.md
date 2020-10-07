@@ -8,11 +8,17 @@ In this portion of the exam, you will do a code review of my code. There are thr
 
 ### Run the Start Code Review action
 
-This will create a sample code review for you to review in your repository. For more details, see [Manually running a workflow](https://docs.github.com/en/free-pro-team@latest/actions/managing-workflow-runs/manually-running-a-workflow)
+This will create a sample code review for you to review in your repository. 
+
+**Create an issue - any issue! - in this repository.** It doesn't matter what you put in it. There is a bug in Github right now with actions that prevents me from giving you proper instructions to do this, so - I'm using issues to tell Github to set this up for you as a workaround. [You can use the instructions here.](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue)
+
+Head to Actions to see how that sample pull request is coming along.
+
+<!--For more details, see [Manually running a workflow](https://docs.github.com/en/free-pro-team@latest/actions/managing-workflow-runs/manually-running-a-workflow)-->
 
 ![Screen Shot 2020-10-06 at 10 26 51 PM](https://user-images.githubusercontent.com/1828613/95281124-72097780-0824-11eb-8c5f-af7845f75110.png)
-![Screen Shot 2020-10-06 at 10 29 02 PM](https://user-images.githubusercontent.com/1828613/95281191-936a6380-0824-11eb-8fac-7cbfc9836ced.png)
-![Screen Shot 2020-10-06 at 10 29 53 PM](https://user-images.githubusercontent.com/1828613/95281201-99f8db00-0824-11eb-9b2b-55a4dbdff5cd.png)
+<!--![Screen Shot 2020-10-06 at 10 29 02 PM](https://user-images.githubusercontent.com/1828613/95281191-936a6380-0824-11eb-8fac-7cbfc9836ced.png)
+![Screen Shot 2020-10-06 at 10 29 53 PM](https://user-images.githubusercontent.com/1828613/95281201-99f8db00-0824-11eb-9b2b-55a4dbdff5cd.png)-->
 ![Screen Shot 2020-10-06 at 10 30 27 PM](https://user-images.githubusercontent.com/1828613/95281220-a2511600-0824-11eb-89fd-168edaf9b4a6.png)
 
 ### Begin reviewing the code
